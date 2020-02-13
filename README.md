@@ -3,8 +3,11 @@
 </h1>
 
 <p align="center">
+  <a href="https://twitter.com/G666g1e">
+      <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fg666gle%2FBaseQuery">
+  </a>
   <a href="https://github.com/g666gle/BaseQuery/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/g666gle/BaseQuery.svg">
+    <img src="https://img.shields.io/github/license/g666gle/BaseQuery">
   </a>
   <a href="https://github.com/g666gle/BaseQuery/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/g666gle/BaseQuery.svg">
