@@ -1,1 +1,2 @@
-This file is just here so github doesn't delete the directory from the repository
+Delete this file before using basequery. This file is only here so github doesn't delete empty directories. 
+
